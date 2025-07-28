@@ -1,0 +1,2 @@
+# sample_sofrware
+这是一个基于python的用于行业和地区的分层抽样程序
